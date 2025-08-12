@@ -1,4 +1,4 @@
-##End to End Machine Learning Project-## **MovieOrbit**:
+End to End Machine Learning Project- **MovieOrbit**:
 ```
 A personalized movie recommendation system built using tmdb dataset.
 ```
